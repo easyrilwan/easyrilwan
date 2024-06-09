@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Rilwan Idowu Sulwiman
+- 👋 Hi, I’m Rilwan Idowu Suleiman
+
 Frontend Developer || Graphics Designer || Data Analyst
 
 <!---
