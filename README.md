@@ -1,4 +1,7 @@
 # 💫 About Me:
+- 👋 Hi, I’m Rilwan Idowu Suleiman
+Frontend Developer || Graphics Designer || Data Analyst
+
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
 
@@ -11,8 +14,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=easyrilwan&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=easyrilwan&theme=blue_navy&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=easyrilwan&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=easyrilwan&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
