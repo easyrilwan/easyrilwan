@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Rilwan Idowu Suleiman
+👋 Hi, I’m Rilwan Idowu Suleiman<br>
 🔭 I’m Frontend Developer || Graphics Designer || Data Analyst<br>
 👯 I’m looking to collaborate on project or open source<br>
 🤝 I’m looking for help with<br>
