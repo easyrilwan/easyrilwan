@@ -8,7 +8,7 @@
 👯 I’m looking to collaborate on any project or open source<br>
 🤝 I’m looking for help to be mentee with<br>
 🌱 I’m currently learning React.js<br>
-💬 Ask me about<br>
+💬 Ask me tech<br>
 ⚡ Fun fact
 
 # 💻 Tech Stack:
@@ -20,11 +20,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=easyrilwan&theme=ambient_gradient&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=easyrilwan&theme=ambient_gradient&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=easyrilwan&theme=ambient_gradient&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=easyrilwan&icon=0&color=0)](https://visitcount.itsvg.in)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=easyrilwan&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
