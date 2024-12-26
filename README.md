@@ -13,7 +13,7 @@
 
 # 💻 Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass,redux,nodejs,npm,git,github,mongodb,mysql,progresql,supabase,vercel,netlify,figma,ps,ai,pr,ae&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,progresql,sass,redux,nodejs,npm,git,github,mongodb,mysql,progresql,supabase,vercel,netlify,figma,ps,ai,pr,ae&theme=light)](https://skillicons.dev)
 
 <!--
 <pre align="center">
