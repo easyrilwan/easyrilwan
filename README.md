@@ -4,7 +4,7 @@
 
 # 💫 About Me:
 👋 Hi, I’m Rilwan Idowu Suleiman<br>
-🔭 I’m Frontend Developer || Graphics Designer || Data Analyst<br>
+🔭 I’m Frontend Developer || Backend Developer In View || Graphics Designer || Data Analyst<br>
 👯 I’m looking to collaborate on any project or open source<br>
 🤝 I’m looking for help to be mentee with<br>
 🌱 I’m currently learning Nodejs and further expanding my Frontend<br>
