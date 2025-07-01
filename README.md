@@ -8,7 +8,7 @@
 👯 I’m looking to collaborate on any project or open source<br>
 🤝 I’m looking for help to be mentee with<br>
 🌱 I’m currently learning Nodejs and further expanding my Frontend<br>
-💬 Ask me tech<br>
+💬 Ask me about tech<br>
 ⚡ Fun fact
 
 # 💻 Tech Stack:
