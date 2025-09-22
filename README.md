@@ -13,7 +13,9 @@
 
 # 💻 Tech Stack:
 
+<pre align="center">
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass,styledcomponents,redux,nodejs,postman,npm,pnpm,git,github,mongodb,express,firebase,mysql,postgresql,supabase,vscode,vercel,netlify,vite,figma,ps,ai,pr,ae&theme=dark)](https://skillicons.dev)
+</p>
 
 <!--
 <pre align="center">
